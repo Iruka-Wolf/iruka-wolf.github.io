@@ -1,1 +1,1 @@
-![Megalovania Hard Rock Arrangement](content/Megalovania.png)
+![Megalovania Hard Rock Arrangement](images/Megalovania.png)

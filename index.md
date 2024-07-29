@@ -12,7 +12,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 # Music
 [![Megalovania Hard Rock Arrangement](images/Megalovania.png)](https://soundcloud.com/iruka-wolf/megalovania-hard-rock-arrangement)
 
-[![Spear of Justice Hard Rock Arrangement](images/Spear of Justice.png)](https://soundcloud.com/iruka-wolf/spear-of-justice-hard-rock-arrangement)
+[![Spear of Justice Hard Rock Arrangement](images/SpearOfJustice.png)](https://soundcloud.com/iruka-wolf/spear-of-justice-hard-rock-arrangement)
 
 ---
 

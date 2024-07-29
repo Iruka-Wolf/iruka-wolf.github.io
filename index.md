@@ -1,4 +1,4 @@
-# 
+# About Me
 
 I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions, video game music covers, and Zelda mods!
 

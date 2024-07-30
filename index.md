@@ -1,3 +1,5 @@
+![Profile Avatar](images/pfp.png)
+
 # About Me
 
 I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions, video game music covers, and Zelda mods. 80's and 2000's Rock is my main inspiration for music, so expect a plethora of power chords and even more powerful drums!

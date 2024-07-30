@@ -14,7 +14,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 ---
 
 # Music
-[![Rock from the Underground](images/EP-1.png)](https://soundcloud.com/iruka-wolf/sets/rock-from-the-underground-ep)
+[![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
 
 ---
 

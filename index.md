@@ -1,6 +1,6 @@
 # About Me
 
-I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions, video game music covers, and Zelda mods.
+I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions, video game music covers, and Zelda mods. 80's and 2000's Rock is my main inspiration for music, so expect a plethora of power chords and even more powerful drums!
 
 ---
 
@@ -10,9 +10,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 ---
 
 # Music
-[![Spear of Justice Hard Rock Arrangement](images/SpearOfJustice.png)](https://soundcloud.com/iruka-wolf/spear-of-justice-hard-rock-arrangement)
-
-[![Megalovania Hard Rock Arrangement](images/Megalovania.png)](https://soundcloud.com/iruka-wolf/megalovania-hard-rock-arrangement)
+[![Rock from the Underground](images/EP-1.png)](https://soundcloud.com/iruka-wolf/sets/rock-from-the-underground-ep)
 
 ---
 

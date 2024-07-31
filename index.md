@@ -11,7 +11,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 # Music Streaming available on: (YT Music and Spotify coming soon)
 [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)  ![YouTube Music](images/ytmusic.png) ![Spotify](images/spotify.png)
 
-### *Downloads for offline playback are also available for purchase by members on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
+### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 
 ---
 

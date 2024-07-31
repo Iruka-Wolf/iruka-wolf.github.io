@@ -9,7 +9,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 ---
 
 # Music Streaming available on: (YT Music and Spotify coming soon)
-[![SoundCloud](images/sc.png)](https://soundcloud.com/iruka-wolf/)  ![YouTube Music](images/ytmusic.png) ![Spotify](images/spotify.png)
+[![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)  ![YouTube Music](images/ytmusic.png) ![Spotify](images/spotify.png)
 
 ---
 

@@ -8,7 +8,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 ---
 
-# Music Streaming Links
+# Music Streaming available on:
 [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)  [![YouTube](images/youtube.png)](https://www.youtube.com/@iruka_wolf)
 
 ---

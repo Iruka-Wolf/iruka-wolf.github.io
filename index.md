@@ -17,7 +17,7 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 ---
 
-# Mods
+<!--# Mods
 ![Plight of Eldra Romhack](images/plight-of-eldra.png)
 
-### An in-development romhack for Ocarina of Time: Master Quest Debug featuring a custom story, dungeons, progression, and music! It is currently in the alpha stages, so there is no public build available yet.
+### An in-development romhack for Ocarina of Time: Master Quest Debug featuring a custom story, dungeons, progression, and music! It is currently in the alpha stages, so there is no public build available yet. -->

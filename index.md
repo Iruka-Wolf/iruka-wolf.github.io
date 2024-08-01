@@ -17,6 +17,8 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 # Discography
 
+[![Wrath of the Sun God](images/Abstraction.png)](https://ko-fi.com/post/Wrath-of-the-Sun-God-is-now-streaming-on-SoundClou-U7U8118QVY)
+
 [![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
 
 ---

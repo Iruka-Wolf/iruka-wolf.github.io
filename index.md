@@ -13,6 +13,8 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 ### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 
+*Original music (non-covers) distributed by 7579233 Records DK to YouTube Music and Spotify.*
+
 ---
 
 # Discography

@@ -13,17 +13,19 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 ### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 
-*Original music distributed by* **7579233 Records DK** *to YouTube Music, Spotify and SoundCloud.*
+*Original music distributed by* **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud.*
 
-*Cover songs are distributed personally to SoundCloud and my personal YouTube channel only.**
+*Cover songs distributed personally to SoundCloud and my personal YouTube channel only.*
 
 ---
 
 # Discography
 
 [![Wrath of the Sun God](images/Abstraction.png)](https://ko-fi.com/post/Wrath-of-the-Sun-God-is-now-streaming-on-SoundClou-U7U8118QVY)
+*Original Single*
 
-*[![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
+[![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
+*Cover EP*
 
 ---
 

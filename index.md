@@ -21,7 +21,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 ---
 
-# Discography
+# Discography (Sorted by Latest)
 
 [![Wrath of the Sun God](images/Abstraction.png)](https://ko-fi.com/post/Wrath-of-the-Sun-God-is-now-streaming-on-SoundClou-U7U8118QVY)
 *Original Single*

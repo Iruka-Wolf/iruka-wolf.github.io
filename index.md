@@ -4,7 +4,7 @@
 
 I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions and video game music covers. 80's and 2000's Rock is my main inspiration for music, so expect a plethora of power chords and even more powerful drums!
 
-I work with [DistroKid](https://distrokid.com/) as my distributor and Record Label, and I couldn't recommend them more!
+I work with [DistroKid](https://distrokid.com/) as my distributor and Record Label, and I couldn't recommend them more! If you are a student or educator looking to work with a music distributor yourself, use [my referral link](https://distrokid.com/student/7579233) for a 50% discount!
 
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
@@ -17,7 +17,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 *Original music distributed by* **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud.*
 
-*Cover songs distributed personally to SoundCloud and my personal YouTube channel.*
+*Cover songs distributed personally to SoundCloud and my YouTube channel (**not** artist page).*
 
 ---
 

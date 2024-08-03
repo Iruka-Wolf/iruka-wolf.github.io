@@ -15,7 +15,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 ### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 
-*Original music distributed by* **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud.*
+*Original music distributed by*  **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud.*
 
 *Cover songs distributed personally to SoundCloud and my personal YouTube channel only.*
 

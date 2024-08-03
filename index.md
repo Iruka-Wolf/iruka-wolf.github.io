@@ -23,6 +23,8 @@ I'm an Ivy Tech student studying Computer Science with a passion for video games
 
 [![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
 
+*Includes covers songs, Soundcloud exclusive.*
+
 ---
 
 <!--# Mods

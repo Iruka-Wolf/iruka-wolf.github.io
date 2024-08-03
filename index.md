@@ -4,6 +4,8 @@
 
 I'm an Ivy Tech student studying Computer Science with a passion for video games and music! I make original compositions and video game music covers. 80's and 2000's Rock is my main inspiration for music, so expect a plethora of power chords and even more powerful drums!
 
+I work with [DistroKid](https://distrokid.com/) as my distributor and Record Label, and I couldn't recommend them more!
+
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
 ---

@@ -17,7 +17,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 *Original music distributed by* **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud.*
 
-*Cover songs distributed personally to SoundCloud and my YouTube channel (**not** artist page).*
+*Cover songs distributed personally to SoundCloud and my YouTube channel (unofficially released)*
 
 ---
 

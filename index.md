@@ -11,7 +11,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 ---
 
 # Music Streaming available on:
-[![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)  [![YouTube Music](images/ytmusic.png)](https://music.youtube.com/channel/UCpw6wSUGSEUM7K6HNVOPZIg) [![Spotify](images/spotify.png)](https://open.spotify.com/artist/0Ldq1SsVxwi0vRJB9CAnhR?si=-G87-wZ5Q62qDb7MXlmy4Q)
+[![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)  [![YouTube Music](images/ytmusic.png)](https://music.youtube.com/@iruka_wolf) [![Spotify](images/spotify.png)](https://open.spotify.com/artist/0Ldq1SsVxwi0vRJB9CAnhR?si=-G87-wZ5Q62qDb7MXlmy4Q)
 
 ### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 

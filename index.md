@@ -8,6 +8,8 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
+For business inquiries, please contact me at **irukawolf@proton.me**.
+
 ---
 
 # Music Streaming available on:
@@ -22,6 +24,9 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 ---
 
 # Discography (Sorted by Latest)
+
+[![Harp, Cello, and Chamber](images/Harp_-Cello_-and-Chamber.jpg)](https://ko-fi.com/post/Harp-Cello-and-Chamber-out-now-N4N7136VXG)
+*Original Album*
 
 [![Wrath of the Sun God](images/Abstraction.png)](https://ko-fi.com/post/Wrath-of-the-Sun-God-is-live-on-Spotify-and-YouTub-U7U611D4WT?justpublished=true&alias=Wrath-of-the-Sun-God-is-live-on-Spotify-and-YouTub-U7U611D4WT)
 *Original Single*

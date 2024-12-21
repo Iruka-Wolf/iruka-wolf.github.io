@@ -10,7 +10,7 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
-For business inquiries, reach out to me at **irukawolf@proton.me**.
+For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukawolf@proton.me)**.
 
 ---
 

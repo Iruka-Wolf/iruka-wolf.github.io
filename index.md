@@ -27,6 +27,9 @@ For business inquiries, reach out to me at **irukawolf@proton.me**.
 
 # Discography (Sorted by Latest)
 
+[![March of Demons](images/Abstraction%20Album%20Art.png)](https://youtu.be/1N6Dq4FroHs)
+*Early Single Release*
+
 [![Harp, Cello, and Chamber](images/Harp_-Cello_-and-Chamber.jpg)](https://ko-fi.com/post/Harp-Cello-and-Chamber-out-now-N4N7136VXG)
 *Original Album*
 

@@ -42,10 +42,3 @@ For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukaw
 
 [![Rock from the Underground](images/EP-1.png)](https://ko-fi.com/post/Rock-from-the-Underground-EP-on-Soundcloud-P5P3116F57)
 *Cover EP*
-
----
-
-<!--# Mods
-![Plight of Eldra Romhack](images/plight-of-eldra.png)
-
-### An in-development romhack for Ocarina of Time: Master Quest Debug featuring a custom story, dungeons, progression, and music! It is currently in the alpha stages, so there is no public build available yet. -->

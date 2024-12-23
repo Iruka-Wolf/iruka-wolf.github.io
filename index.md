@@ -2,6 +2,8 @@
 
 *"And remember, when life tells you it's not worth it anymore, **make some f\*\*\*\*n music!**"*
 
+---
+
 # About Me
 
 I’m a furry from the midwest with a passion for video games and music! I make original instrumentals and occasionally do video game music covers.

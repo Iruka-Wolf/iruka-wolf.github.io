@@ -14,6 +14,8 @@ I work with [DistroKid](https://distrokid.com/) as my distributor and Record Lab
 
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
+*I also take music commissions of Ko-fi as well!*
+
 For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukawolf@proton.me)**.
 
 ---

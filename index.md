@@ -1,4 +1,4 @@
-![Profile Avatar](images/pfp.png)
+![Profile Avatar](images/IrukaWolf.png)
 
 *"And remember, when life tells you it's not worth it anymore, **make some f\*\*\*\*n music!**"*
 

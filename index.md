@@ -1,6 +1,12 @@
 ![Profile Avatar](images/vrc_heart_sunglasses.png)
 
-### **An indie artist / VTuber here to prove that anyone can make music for free.**
+### **An indie artist / VTuber here to prove that anyone can make music using 100% free software.**
+
+I use [LMMS](https://lmms.io/) (specifically the 1.3.0 alpha) as my DAW with the [SGM v2.01 Soundfont](https://musical-artifacts.com/artifacts/855) to write music, both of which are completely free with no royalties.
+
+In spite of its popularity, this specific version of SGM seems to be abandonware as there is no official download for it, only a multitude of afficionado uploads.
+
+Nevertheless, that's all I use for production! I use [Audacity](https://www.audacityteam.org/) for post-production and [ShotCut](www.shotcut.org) for video creation, both of which are free as well. I am a proponent of free and especially open-source software to enable amateurs like me and even professionals to exercise their creative freedoms.
 
 ---
 

@@ -1,6 +1,6 @@
-![Profile Avatar](images/IrukaWolf.png)
+![Profile Avatar](images/vrc_heart_sunglasses.png)
 
-### **An indie artist here to prove that anyone can make music for free.**
+### **An indie artist / VTuber here to prove that anyone can make music for free.**
 
 ---
 

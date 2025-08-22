@@ -18,9 +18,9 @@ As for the former, I draw inspiration from many games from my childhood and game
 
 # Follow my personal music endeavors on [YouTube](https://www.youtube.com/@iruka_wolf)!
 
-Most of my tracks are pushed to YouTube exclusively on a monthly upload schedule,  Many of my compositions never see the light of day, but at least once a month I'll try to release a track on YouTube.
+I create music almost daily, as it's a hobby and creative outlet like no other. However, most of my works never see the light of day. If something comes out good enough, I'll post it on YouTube!
 
-Due to financial troubles, I unfortunately had to cancel my DistroKid Account. It wasn't making me any money anyway, so I'm just fine taking the personal upload route.
+Albums and EPs will be uploaded to both YouTube and SoundCloud.
 
 ---
 
@@ -29,6 +29,8 @@ Due to financial troubles, I unfortunately had to cancel my DistroKid Account. I
 [![Ko-fi](images/kofi_button_blue.png)](https://ko-fi.com/irukawolf)
 
 *I also take music commissions of Ko-fi as well!*
+
+*Due to financial troubles, I unfortunately had to cancel my DistroKid Account, so this is the only way to show your support financially!*
 
 For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukawolf@proton.me)**.
 
@@ -44,6 +46,13 @@ For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukaw
 ---
 
 # Discography (Sorted by Latest)
+
+## Upcoming Release(s):
+
+[![Foray Into Nothing](images/Foray%20Into%20Nothing.jpeg)]()
+*Instrumental Rock Album slated for late 2025/early 2026.*
+
+## The following are available only on SoundCloud:
 
 [![March of Demons](images/Abstraction%20Album%20Art.png)](https://ko-fi.com/post/March-Of-Demons-is-on-YouTube-and-SoundCloud-H2H6181BFP)
 *Original Single*

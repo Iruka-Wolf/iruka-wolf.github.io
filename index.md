@@ -6,7 +6,7 @@ I use [LMMS](https://lmms.io/) (specifically the 1.3.0 alpha) as my DAW with the
 
 In spite of its popularity, this specific version of SGM seems to be abandonware as there is no official download for it, only a multitude of afficionado uploads.
 
-Nevertheless, that's all I use for production! I use [Audacity](https://www.audacityteam.org/) for post-production and [ShotCut](www.shotcut.org) for video creation, both of which are free as well. I am a proponent of free and especially open-source software to enable amateurs like me and even professionals to exercise their creative freedoms.
+Nevertheless, that's all I use for production! I use [Audacity](https://www.audacityteam.org/) for post-production, [GIMP](https://www.gimp.org/) for creating album art, and [ShotCut](www.shotcut.org) for video creation, all of which are free as well. I am a proponent of free and especially open-source software to enable amateurs like me and even professionals to exercise their creative freedoms.
 
 ---
 

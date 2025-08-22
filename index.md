@@ -43,11 +43,11 @@ For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukaw
 ---
 
 # Music Streaming available on:
-[![YouTube Music](images/ytmusic.png)](https://youtube.com/@iruka_wolf) [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)
+[![YouTube Music](images/ytmusic.png)](https://youtube.com/@iruka_wolf) [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/) [![Bandcamp](images/bandcamp.png)](https://irukawolf.bandcamp.com/)
 
-### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
+### Starting with Foray Into Nothing, my discography will be available for purchase through Bandcamp!
 
-*All music is uploaded personally to YouTube, with notable releases also going to SoundCloud.*
+*All music is uploaded personally to YouTube, with notable releases also going to SoundCloud and posted for sale on Bandcamp.*
 
 ---
 

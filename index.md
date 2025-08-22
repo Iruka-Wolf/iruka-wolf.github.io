@@ -18,7 +18,9 @@ As for the former, I draw inspiration from many games from my childhood and game
 
 # Follow my personal music endeavors on [YouTube](https://www.youtube.com/@iruka_wolf)!
 
-Most of my tracks are pushed to YouTube exclusively on a monthly upload schedule, with yearly releases going through DistroKid. This is to maintain cost-effectiveness and help build an audience. Many of my compositions never see the light of day, but at least once a month I'll release a track on YouTube.
+Most of my tracks are pushed to YouTube exclusively on a monthly upload schedule,  Many of my compositions never see the light of day, but at least once a month I'll try to release a track on YouTube.
+
+Due to financial troubles, I unfortunately had to cancel my DistroKid Account. It wasn't making me any money anyway, so I'm just fine taking the personal upload route.
 
 ---
 
@@ -32,20 +34,12 @@ For business inquiries, reach out to me at **[irukawolf@proton.me](mailto:irukaw
 
 ---
 
-I work with [DistroKid](https://distrokid.com/) as my distributor and Record Label, and I couldn't recommend them more! If you are a student or educator looking to work with a music distributor yourself, use [my referral link](https://distrokid.com/student/7579233) for a 50% discount!
-
----
-
 # Music Streaming available on:
-[![YouTube Music](images/ytmusic.png)](https://youtube.com/@iruka_wolf) [![Spotify](images/spotify.png)](https://open.spotify.com/artist/0Ldq1SsVxwi0vRJB9CAnhR?si=-G87-wZ5Q62qDb7MXlmy4Q) [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)
+[![YouTube Music](images/ytmusic.png)](https://youtube.com/@iruka_wolf) [![SoundCloud](images/soundcloud.png)](https://soundcloud.com/iruka-wolf/)
 
 ### *Downloads for offline playback are also available for purchase by monthly supporters on [Ko-fi](https://ko-fi.com/irukawolf/shop)!*
 
-*Yearly EPs/Albums distributed by* **7579233 Records DK** *to YouTube Music, Spotify, and SoundCloud\*.*
-
-*Cover songs and other works are personally uploaded exclusively to YouTube.*
-
-*\*SoundCloud uploads are pushed manually.*
+*All music is uploaded personally to YouTube, with notable releases also going to SoundCloud.*
 
 ---
 
